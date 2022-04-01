@@ -5,8 +5,8 @@
   "background_color": "#0c0612",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "https://hassanosama720.github.io/task1/",
+  "start_url": "https://hassanosama720.github.io/task1/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
